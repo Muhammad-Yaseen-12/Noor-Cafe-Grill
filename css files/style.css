@@ -106,19 +106,12 @@ body {
 
 /* Hero Section */
 .hero-section1 {
-    /* background-image: url(/assets/Black\ and\ Orange\ Burger\ Food\ YouTube\ Thumbnail.png);
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 500px; */
-
-
-
 
     display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-image: url(/assets/hero.jpg);
+    background-image: url(./../assets/hero.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
